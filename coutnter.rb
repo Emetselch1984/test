@@ -1,5 +1,5 @@
 def print_number
-  # 1-5を出力
+  # 1-10を出力
   puts 1
   puts 2
   puts 3
